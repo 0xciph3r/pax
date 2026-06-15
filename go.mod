@@ -1,4 +1,4 @@
-module github.com/NonsoAmadi10/pax
+module github.com/0xciph3r/pax
 
 go 1.22
 

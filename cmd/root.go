@@ -1,5 +1,5 @@
 /*
-Copyright © 2025 Chinonso Amadi <nonsoamadi@aol.com>
+Copyright © 2025 cipher <dev@radi-labs.org>
 */
 package cmd 
 
